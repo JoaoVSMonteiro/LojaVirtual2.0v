@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Hagna
+ *
+ */
+module LojaVirtual {
+}
